@@ -1,0 +1,26 @@
+[13-May-2020 14:21:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jsmarchant97/public_html/jakevolt/includes/navbar.php:1) in /home3/jsmarchant97/public_html/jakevolt/Account/index.php on line 6
+[13-May-2020 14:21:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND followerAccID = 5' at line 3 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:935
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(935): PDO->query('SELECT followin...')
+#1 /home3/jsmarchant97/public_html/jakevolt/Account/index.php(27): checkFollow()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 935
+[13-May-2020 14:21:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jsmarchant97/public_html/jakevolt/includes/navbar.php:1) in /home3/jsmarchant97/public_html/jakevolt/Account/index.php on line 6
+[13-May-2020 14:21:28 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND followerAccID = 5' at line 3 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:935
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(935): PDO->query('SELECT followin...')
+#1 /home3/jsmarchant97/public_html/jakevolt/Account/index.php(27): checkFollow()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 935
+[13-May-2020 14:23:36 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND followerAccID = 5' at line 3 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:935
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(935): PDO->query('SELECT followin...')
+#1 /home3/jsmarchant97/public_html/jakevolt/Account/index.php(23): checkFollow()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 935
+[13-May-2020 14:44:13 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND followerAccID = 5' at line 3 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:935
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(935): PDO->query('SELECT followin...')
+#1 /home3/jsmarchant97/public_html/jakevolt/Account/index.php(23): checkFollow()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 935

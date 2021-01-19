@@ -1,0 +1,57 @@
+[09-May-2020 09:53:02 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND imageID = 2 AND Rating = 1' at line 1 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:347
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(347): PDO->query('SELECT rID, ima...')
+#1 /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php(9): checklikes()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 347
+[09-May-2020 09:53:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND imageID = 2 AND Rating = 1' at line 1 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:347
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(347): PDO->query('SELECT rID, ima...')
+#1 /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php(9): checklikes()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 347
+[09-May-2020 09:59:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND imageID = 2 AND Rating = 1' at line 1 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:349
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(349): PDO->query('SELECT rID, ima...')
+#1 /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php(9): checklikes()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 349
+[09-May-2020 09:59:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND imageID = 2 AND Rating = 1' at line 1 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:349
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(349): PDO->query('SELECT rID, ima...')
+#1 /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php(9): checklikes()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 349
+[09-May-2020 10:16:20 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND imageID = 2 AND Rating = 1' at line 1 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:347
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(347): PDO->query('SELECT rID, ima...')
+#1 /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php(9): checklikes()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 347
+[09-May-2020 10:16:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND imageID = 2 AND Rating = 1' at line 1 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:347
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(347): PDO->query('SELECT rID, ima...')
+#1 /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php(9): checklikes()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 347
+[09-May-2020 10:20:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND imageID = 2 AND Rating = 1' at line 1 in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:377
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(377): PDO->query('SELECT rID, ima...')
+#1 /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php(14): likeid()
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 377
+[10-May-2020 07:51:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function loadImage() in /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php on line 8
+[10-May-2020 08:46:45 America/Chicago] PHP Warning:  Illegal string offset 'tag' in /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php on line 111
+[10-May-2020 08:47:35 America/Chicago] PHP Warning:  Illegal string offset 'tag' in /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php on line 111
+[10-May-2020 08:49:19 America/Chicago] PHP Warning:  Illegal string offset 'tag' in /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php on line 111
+[10-May-2020 08:49:19 America/Chicago] PHP Warning:  Illegal string offset 'tag' in /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php on line 111
+[10-May-2020 09:56:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php on line 19
+[17-May-2020 12:31:25 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'accID' cannot be null in /home3/jsmarchant97/public_html/jakevolt/includes/db.php:526
+Stack trace:
+#0 /home3/jsmarchant97/public_html/jakevolt/includes/db.php(526): PDOStatement->execute()
+#1 /home3/jsmarchant97/public_html/jakevolt/viewImage/index.php(6): include('/home3/jsmarcha...')
+#2 {main}
+  thrown in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 526

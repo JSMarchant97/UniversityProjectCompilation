@@ -1,0 +1,18 @@
+[13-May-2020 13:38:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 228
+[13-May-2020 13:38:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 294
+[13-May-2020 13:38:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jsmarchant97/public_html/jakevolt/includes/db.php:228) in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 307
+[13-May-2020 13:40:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 228
+[13-May-2020 13:40:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 294
+[13-May-2020 13:40:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jsmarchant97/public_html/jakevolt/includes/db.php:228) in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 307
+[13-May-2020 13:41:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 228
+[13-May-2020 13:41:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 294
+[13-May-2020 13:41:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jsmarchant97/public_html/jakevolt/includes/db.php:228) in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 307
+[13-May-2020 13:42:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 228
+[13-May-2020 13:42:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 294
+[13-May-2020 13:42:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jsmarchant97/public_html/jakevolt/includes/db.php:228) in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 307
+[15-May-2020 10:41:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 228
+[15-May-2020 10:41:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 294
+[15-May-2020 10:41:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jsmarchant97/public_html/jakevolt/includes/db.php:228) in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 307
+[15-May-2020 10:41:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 228
+[15-May-2020 10:41:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 294
+[15-May-2020 10:41:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jsmarchant97/public_html/jakevolt/includes/db.php:228) in /home3/jsmarchant97/public_html/jakevolt/includes/db.php on line 307
