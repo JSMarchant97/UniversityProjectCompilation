@@ -1,0 +1,30 @@
+#joketable 
+{
+    background-color: lightgray;
+    border: inset darkgray 2px;
+}
+
+#joke 
+{
+    background-color: #424242;
+    border: inset darkgray 2px;
+    color: white;
+}
+
+#date 
+{
+    background-color: lightgray;
+    border: inset darkgray 2px;
+}
+
+#deletebtn
+{
+    background-color: #424242;
+    color: white;
+}
+
+#deletebtn:hover
+{
+    color: #424242;
+    background-color: white;
+}

@@ -1,0 +1,160 @@
+* {
+   font-family: arial;
+}
+
+body
+{
+    background-color: black;
+}
+
+.cont
+{
+    background-color: aqua;
+    margin-left: 24%;
+}
+
+.navbtn
+{
+    float: left;
+    width: 15%;
+    max-width: 20%;
+    height: 10%;
+    margin: 0px;
+    text-align: center;
+    border-top: solid transparent 18px;
+    border-bottom: solid transparent 18px;
+    border-left: solid white 6px;
+    border-right: solid white 6px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    overflow: auto;
+    font-size: 95%;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+}
+
+.navbtn:hover
+{
+    border-top: solid transparent 18px;
+    border-bottom: solid transparent 18px;
+    border-left: solid #c70000 10px;
+    border-right: solid #c70000 10px;
+    color: #c70000;
+
+}
+
+#bgimg
+{
+    background-size: contain;
+    background-color: white;
+    height: auto;
+    margin-top: 0.5%;
+    opacity: 0.8;
+    width: 102%;
+    margin-left: -1.7%;
+    z-index: 0;
+    position: relative;
+}
+
+#logo
+{
+    width: 20%;
+    top: 30%;
+    left: 40%;
+    right: 40%;
+    float: left;
+    z-index: 1;
+    position: absolute;
+    
+}
+.title
+{
+    font-size: 150%;
+    margin-top: 6%;
+    top: 45%;
+    float: left;
+    z-index: 1;
+    position: absolute;
+    color: white;
+    width:99%;
+    text-align: center;
+}
+.subtitle
+{
+    font-size: 150%;
+    margin-top: 10%;
+    top: 45%;
+    float: left;
+    z-index: 1;
+    position: absolute;
+    color: white;
+    width:99%;
+    text-align: center;
+}
+
+#results
+{
+    font-size: 120%;
+    margin-top: 6%;
+    top: 5%;
+    float: left;
+    z-index: 1;
+    position: absolute;
+    color: black;
+    width:60%;
+    margin-left: 13%;
+}
+
+#recipeimg
+{
+    width: 50%;
+    margin-left: 30%;
+}
+#recipeimgs
+{
+    width: 50%;
+    margin-left: 30%;
+}
+
+#imgcell
+{
+    margin-right: -200px;
+}
+
+#searchbtn
+{
+    width: 10%;
+    font-size: 120%;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+#searchcont
+{
+    display: none;
+}
+
+#result
+{
+    width: 99%;
+    top: 10%;
+    position: absolute;
+}
+
+#seemore
+{
+    margin-left: 5%;
+}
+
+#footer
+{
+    color: white;
+}
+
+#contact
+{
+    width: 50%;
+}
